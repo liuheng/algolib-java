@@ -1,0 +1,83 @@
+@TP312JA/C454
+西文图书1.The Java class libraries : an annotated reference / 
+馆藏复本：1 
+可借复本：1 Patrick Chan and Rosanna Lee. 
+Addison-Wesley, c1997. 
+
+@TP312JA/L693D
+西文图书2.Introduction to Java programming : comprehensive version / 5th ed. 
+馆藏复本：1 
+可借复本：1 Y. Daniel Liang. 
+Pearson Prentice Hall, 2005. 
+
+@TP312JA/H823 
+西文图书3.Beginning Java 2 : JDK 1.3 edition / 
+馆藏复本：1 
+可借复本：1 Ivor Horton. 
+Wrox Press, c2000. 
+
+@TP312JA/C678 
+西文图书4.Java 1.5 program design / 1st ed. 
+馆藏复本：2 
+可借复本：2 James P Cohoon. 
+McGraw-Hill Science/Engineering/Math, 2004. 
+
+@TP312JA/R643
+西文图书5.The art and science of Java : an introduction to computer science = Java语言艺术与科学 : 计算机科学 
+馆藏复本：3 
+可借复本：3 Eric S. Roberts. 
+清华大学出版社, 2009. 
+
+@TP312JA/W223
+西文图书6.Java for dummies / 3rd ed. 
+馆藏复本：1 
+可借复本：1 by Aaron E. Walsh. 
+IDG Books, c1998. 
+
+@TP312JA/1156
+中文图书11.Java加密与解密的艺术 
+馆藏复本：3 
+可借复本：0 梁栋著 
+机械工业出版社 2010 
+
+@TP312JA/705/.2
+中文图书14.JavaScript学习指南 
+馆藏复本：5 
+可借复本：0 (美) Shelley Powers著 
+人民邮电出版社 2009 
+
+@TP312JA/1153
+中文图书15.大型门户网站是这样炼成的!:Struts 2 + Spring 2 + Hibernate 3 
+馆藏复本：3 
+可借复本：1 刘斌编著 
+电子工业出版社 2010 
+
+@TP312JA/1154
+中文图书16.Java Web应用开发实用教程 
+馆藏复本：3 
+可借复本：0 龚永罡，陈秀新等编著 
+机械工业出版社 2010 
+
+@TP312JA/1152
+中文图书17.JavaScript语法与范例速查手册 
+馆藏复本：3 
+可借复本：0 朱印宏编著 
+中国铁道出版社 2010 
+
+@TP312JA/1150
+中文图书18.SCCE软件工程师:第二阶段.Java面向对象编程 
+馆藏复本：3 
+可借复本：2 美斯坦福 (中国) IT教育编著 
+中国地质大学出版社 2010 
+
+@TP312JA/1121/-2
+中文图书19.Java语言程序设计.第2版 
+馆藏复本：3 
+可借复本：2 主编贾振华 
+中国水利水电出版社 2010 
+
+@TP312JA/1130/-2
+中文图书20.Java 程序设计.第2版 
+馆藏复本：4 
+可借复本：1 娄不夜主编 
+清华大学出版社 2010 
